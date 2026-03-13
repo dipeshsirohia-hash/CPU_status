@@ -1,6 +1,6 @@
 package login
 import "fmt"
 
-func main()  {
+func Customer()  {
 	fmt.Println("sandeep working in customer.go")
 }
