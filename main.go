@@ -11,7 +11,7 @@ import (
 )
 
 type ProcInfo struct {
-	Name string
+	Name string 
 	CPU  float64
 	Mem  float64
 }
